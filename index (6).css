@@ -1,0 +1,18 @@
+ body{
+      background-color: #eee;
+      
+    }
+    .container{
+      padding: 0 20px 30px;
+      width: 300px;
+      background: white;
+      border: 2px solid #eaeaea;
+      position: fixed;
+      top: 100px;
+      left: 100px;
+    }
+    button{
+      position: absolute !important;
+      right: 20px;
+      bottom: -28px;
+    }
